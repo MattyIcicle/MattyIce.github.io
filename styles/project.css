@@ -27,6 +27,7 @@ header h2 {
     font-size: 130%;
     color: crimson;
     text-indent: 30px;
+    border-bottom: 30% aquamarine;
 }
 header img {
     float: left;
@@ -56,6 +57,7 @@ article p::first-letter {
     font-weight: bolder;
     font-style: italic;
     color: lightblue;
+    padding: 12px auto;
 }
 aside {
     width: 20%;
