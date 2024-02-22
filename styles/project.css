@@ -27,7 +27,7 @@ header h2 {
     font-size: 130%;
     color: crimson;
     text-indent: 30px;
-    border-bottom: 30% aquamarine;
+    border-bottom: 30% solid aquamarine;
 }
 header img {
     float: left;
