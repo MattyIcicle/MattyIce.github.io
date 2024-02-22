@@ -51,6 +51,7 @@ article img {
     float: left;
     margin-right: 1em;
     margin-bottom: 1em;
+    padding: 15px auto;
 }
 article p::first-letter {
     font-size: 3em;
@@ -79,4 +80,5 @@ p.fixed {
     right: 0;
     border: 3px solid aquamarine;
     background-color: aquamarine;
+    padding: 10px auto;
 }
