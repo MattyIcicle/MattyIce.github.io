@@ -69,6 +69,7 @@ aside {
     background-color: aquamarine;
     margin: auto;
     padding: 10px;
+    text-align: center;
 }
 footer {
     clear: both;
