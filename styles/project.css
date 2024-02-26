@@ -67,6 +67,8 @@ aside {
     width: 20%;
     float: right;
     background-color: aquamarine;
+    margin-left: 1em;
+    padding: 15px auto;
 }
 footer {
     clear: both;
