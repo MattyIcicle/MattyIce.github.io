@@ -64,6 +64,7 @@ article p::first-letter {
     padding: 12px auto;
 }
 aside {
+    list-style: inside;
     width: 20%;
     float: right;
     background-color: aquamarine;
