@@ -42,3 +42,12 @@ article {
       column-span: all;
       border-top: 20px dashed maroon;
   }
+  aside {
+    list-style: inside;
+    width: 20%;
+    float: right;
+    background-color: aquamarine;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+}
