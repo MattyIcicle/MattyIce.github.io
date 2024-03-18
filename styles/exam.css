@@ -65,6 +65,8 @@ article {
     margin: auto;
     padding: 10px;
     text-align: left;
+    position: sticky;
+    top: 10px;
 }
 article p::first-letter {
     font-size: 3em;
