@@ -29,3 +29,16 @@ article img {
     margin-bottom: 1em;
     padding: 15px auto;
 }
+article {
+    clear: left;
+    width: 70%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted maroon;
+    column-gap: 2em;
+    margin-left: 2em; 
+  }
+  article h3 {
+      column-span: all;
+      border-top: 20px dashed maroon;
+  }
