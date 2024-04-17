@@ -1,0 +1,33 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+table.first {
+    border-collapse: separate;
+    border: 2px solid black;
+}
+table.first th, table.first td {
+    border: 2px solid maroon;
+}
+table.first tr:nth-child(odd) {
+    background-color: aliceblue;
+}
+table.second   {
+    border-collapse: collapse;
+    border: 2px solid purple;
+    caption-side: bottom;
+}
+table.second th {
+    background-color: salmon;
+}
+table.second th, table.second td {
+    padding: .7em;
+    vertical-align: middle;
+    border: 2px solid purple;
+}
+table.third {
+    border-collapse: separate;
+    border: 2px solid salmon;
+}
+table.third th {
+    background-color: rgb(51, 209, 51);
+}
